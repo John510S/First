@@ -16,7 +16,9 @@ Example link(spongebob on youtube): [here](https://youtu.be/e3fS1SOwLWU?si=zqapl
 
 
 <img src="Molecular-gastronomy-creations.jpeg" alt="random-food.jpeg" style="width:300px;"/>
- 
+This is a delicious dessert made with layers of flavored gelatine and served on a bed of ice. It's a perfect treat for any occasion!
+
+
 3. Violin
 4. Thesus
 5. Brains
