@@ -14,7 +14,6 @@ Example link(spongebob on youtube): [here](https://youtu.be/e3fS1SOwLWU?si=zqapl
 
 1. Random food foods
 
-![random-food.jpeg](Molecular-gastronomy-creations.jpeg)
 
 <img src="Molecular-gastronomy-creations.jpeg" alt="random-food.jpeg" style="width:300px;"/>
  
