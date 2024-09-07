@@ -1,7 +1,7 @@
 
 
 graph TD
-    A[Start] --> B{Is it raining?}
+    A[Start] -->|Is it raining?| B{Decision}
     B -->|Yes| C[Bring an umbrella]
     B -->|No| D[Enjoy the weather]
     C --> E[Go outside]
