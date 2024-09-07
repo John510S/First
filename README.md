@@ -8,4 +8,18 @@ words words words words words words words
 4. [List 4](README.md)
 5. [Element 5](Example)
 
-Example link(spongebob): [here](https://youtu.be/e3fS1SOwLWU?si=zqapl_hB7tp6oMVL)
+Example link(spongebob on youtube): [here](https://youtu.be/e3fS1SOwLWU?si=zqapl_hB7tp6oMVL)
+
+## Philosophical Thought
+
+1. Random food foods
+
+![Molecular-gastronomy-creations.jpeg]
+   
+3. Violin
+4. Thesus
+5. Brains
+
+## Science Fiction
+
+## Classical Storytelling
