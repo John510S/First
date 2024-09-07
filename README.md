@@ -27,4 +27,4 @@ This is a delicious dessert made with layers of flavored gelatine and served on 
 
 ## Classical Storytelling
 
-[Back Home](/) | [Next thing](Cool-file)
+[Back Home](/) | [Go to Cool-file](../path/to/Cool-file.md)
