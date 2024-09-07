@@ -15,7 +15,7 @@ Example link(spongebob on youtube): [here](https://youtu.be/e3fS1SOwLWU?si=zqapl
 1. Random food foods
 
 ![random-food.jpeg](Molecular-gastronomy-creations.jpeg)
-   
+   <img src="Molecular-gastronomy-creations.jpeg" alt="random-food.jpeg width="500"
 3. Violin
 4. Thesus
 5. Brains
