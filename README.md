@@ -3,9 +3,9 @@
 words words words words words words words
 
 1. [List 1](Example)
-2. [List 2](Thought-expirement-example)
-3. [List 3](Readme.md)
-4. [List 4](readme.md)
-5. [Element 5](example)
+2. [List 2 won't work cause I put spaces instead of dashes in actual file name](Thought-expirement-example)
+3. [List 3](README.md)
+4. [List 4](README.md)
+5. [Element 5](Example)
 
 Example link(spongebob): [here](https://youtu.be/e3fS1SOwLWU?si=zqapl_hB7tp6oMVL)
