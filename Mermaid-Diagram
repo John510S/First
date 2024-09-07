@@ -1,0 +1,20 @@
+#Mermaid-Diagram
+
+```mermaid
+graph TD
+    A[Start] --> B[Create or clone repository]
+    B --> C[Create a new branch]
+    C --> D[Make changes]
+    D --> E[Stage changes]
+    E --> F[Commit changes]
+    F --> G{Ready to merge?}
+    G -->|Yes| H[Push changes to remote]
+    G -->|No| D
+    H --> I[Create pull request]
+    I --> J[Review changes]
+    J --> K{Approved?}
+    K -->|Yes| L[Merge to main branch]
+    K -->|No| D
+    L --> M[Delete feature branch]
+    M --> N[End]
+```
