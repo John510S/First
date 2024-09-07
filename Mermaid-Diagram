@@ -13,5 +13,6 @@ flowchart TD
     H --> I[Create a pull request]
     I --> J[Review and merge]
     J --> K[End]
+'''
 
 I give up on mermaid diagram for now, claude and poe aren't giving me what I want. That or I'm just not understanding.
