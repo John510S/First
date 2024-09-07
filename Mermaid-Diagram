@@ -1,8 +1,15 @@
 
-graph TD
-    A[Start] -->|Is it raining?| B{Decision}
-    B -->|Yes| C[Bring an umbrella]
-    B -->|No| D[Enjoy the weather]
-    C --> E[Go outside]
-    D --> E
-    E --> F[End]
+```mermaid
+flowchart TD
+    A[Start] --> B{Is the repository cloned?}
+    B -->|Yes| C[Make changes]
+    B -->|No| D[Clone the repository]
+    D --> C
+    C --> E[Stage changes]
+    E --> F[Commit changes]
+    F --> G{Is it ready to push?}
+    G -->|Yes| H[Push to remote repository]
+    G -->|No| C
+    H --> I[Create a pull request]
+    I --> J[Review and merge]
+    J --> K[End]
