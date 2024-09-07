@@ -1,5 +1,4 @@
 
-
 graph TD
     A[Start] -->|Is it raining?| B{Decision}
     B -->|Yes| C[Bring an umbrella]
