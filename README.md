@@ -26,3 +26,5 @@ This is a delicious dessert made with layers of flavored gelatine and served on 
 ## Science Fiction
 
 ## Classical Storytelling
+
+[Back Home](/) | [Next thing](Molecular-gastronomy-creations.jpeg)
